@@ -3,6 +3,7 @@
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
   MIT License: https://github.com/driftyco/ionicons
+
   Android-style icons originally built by Google’s
   Material Design Icons: https://github.com/google/material-design-icons
   used under CC BY http://creativecommons.org/licenses/by/4.0/
@@ -21,4 +22,4 @@
   100% { -ms-transform: rotate(359deg); } }
 @keyframes spin { 0% { transform: rotate(0deg); }
   100% { transform: rotate(359deg); } }
-
+  
